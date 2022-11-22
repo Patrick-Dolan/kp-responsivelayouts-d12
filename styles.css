@@ -80,3 +80,12 @@ section {
   font-family: 'Playfair Display', serif;
   font-size: 2.25rem;
 }
+
+.created-with-care {
+  background-color: #824936;
+  color: #fff;
+}
+
+.created-with-care img {
+  align-self: flex-start;
+}
