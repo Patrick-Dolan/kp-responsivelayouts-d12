@@ -17,3 +17,12 @@ img {
   max-width: 1128px;
   margin: 0 auto;
 }
+
+.hero {
+  min-height: 41.25em;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
