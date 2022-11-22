@@ -16,6 +16,10 @@ p {
   font-size: 21px;
 }
 
+section {
+  padding: 5em 0;
+}
+
 .container {
   width: 80%;
   max-width: 1128px;
@@ -27,7 +31,7 @@ p {
   gap: 3em;
 }
 
-.two-col {
+.col {
   width: 50%;
 }
 
@@ -55,13 +59,24 @@ p {
   color: #824936;
 }
 
-.quality-designs {
-  padding: 5em 0;
-}
-
 .quality-designs h2 {
   text-align: center;
   font-family: 'Playfair Display', serif;
   font-size: 2.25rem;
   color: #824936;
+}
+
+.custom-made {
+  background-color: #222C2A;
+  color: #fff;
+}
+
+.custom-made img {
+  align-self: flex-start;
+}
+
+.light-header-h2 {
+  color: #F3EED9;
+  font-family: 'Playfair Display', serif;
+  font-size: 2.25rem;
 }
